@@ -1,0 +1,57 @@
+{
+	"grades": [{
+			"name": "V",
+			"materia": {
+				"piety_5": 1000,
+				"heavens_eye_5": 1000,
+				"savage_aim_5": 619,
+				"savage_might_5": 400,
+				"battledance_5": 900,
+				"guerdon_5": 14999,
+				"guile_5": 12950,
+				"grasp_5": 9800,
+				"competence_5": 5494,
+				"cunning_5": 20000,
+				"command_5": 20000,
+				"quickarm_5": 900,
+				"quicktongue_5": 1000
+			}
+		}, {
+
+			"name": "VII",
+			"materia": {
+				"piety_7": 2000,
+				"heavens_eye_7": 7500,
+				"savage_aim_7": 8000,
+				"savage_might_7": 10000,
+				"battledance_7": 1000,
+				"guerdon_7": 19998,
+				"guile_7": 65159,
+				"grasp_7": 31000,
+				"competence_7": 29000,
+				"cunning_7": 18800,
+				"command_7": 29900,
+				"quickarm_7": 1500,
+				"quicktongue_7": 3400
+			}
+		},
+		{
+			"name": "VIII",
+			"materia": {
+				"piety_8": 11000,
+				"heavens_eye_8": 45000,
+				"savage_aim_8": 44000,
+				"savage_might_8": 45000,
+				"battledance_8": 13000,
+				"guerdon_8": 169999,
+				"guile_8": 179999,
+				"grasp_8": 24099,
+				"competence_8": 150999,
+				"cunning_8": 104999,
+				"command_8": 148067,
+				"quickarm_8": 27272,
+				"quicktongue_8": 47000
+			}
+		}
+	]
+}
